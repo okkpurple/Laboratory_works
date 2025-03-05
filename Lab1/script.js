@@ -1,7 +1,7 @@
 alert("Этот код выполнен из внешнего файла!");
 console.log("Сообщение в консоли");
 
-let name = "Denis";
+let name = "Maria";
 let birthYear = 2005;
 let isStudent = true; 
 
